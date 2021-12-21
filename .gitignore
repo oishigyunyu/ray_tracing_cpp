@@ -3,3 +3,4 @@ reference
 *.code-workspace
 *.out
 image
+src/main
